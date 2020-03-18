@@ -5,8 +5,7 @@ from panelControl.models import Institucion,Contacto,Equipo
 
 
 
-def ayuda(request):
-    #Con contexto 
+def ayuda(request): 
     #doc_externo=open("C:/Users/edwar/oneDrive/Escritorio/2020 AUNAR/Proyecto/Proyectos Django/LSC/LSC/Plantillas/ayuda.html")
     #plt=Template(doc_externo.read())
     #doc_externo.close()
